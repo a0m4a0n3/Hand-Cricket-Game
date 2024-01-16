@@ -11,7 +11,7 @@ Simple Console Game, build with Python
 #### 4.Score
 * summing the run of the batsman.
 #### 5.Wicket/Out
-* bowler finger and batsman finger are same then it is out.
+* bowler Keyboard number and batsman Keyboard number are same then it is out.
 
 ## Implementaton
 * **Python:** I am using python programing Language.In this we are using basic python, Object Oreinted concept and random module.
