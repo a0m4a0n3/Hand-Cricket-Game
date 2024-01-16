@@ -14,7 +14,7 @@ Simple Console Game, build with Python
 * bowler Keyboard number and batsman Keyboard number are same then it is out.
 
 ## Implementaton
-* **Python:** I am using python programing Language.In this we are using basic python, Object Oreinted concept and random module.
+* **Python:** I am using python programing Language.In this we are using basic python, Object Oreinted concept and python module(random).
 
 ## License 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/a0m4a0n3/Calculator_Project/blob/main/LICENSE) file for details.
