@@ -17,4 +17,5 @@ Simple Console Game, build with Python
 * **Python:** I am using python programing Language.In this we are using basic python, Object Oreinted concept and python module(random).
 
 ## License 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/a0m4a0n3/Calculator_Project/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/a0m4a0n3/Hand-Cricket-Game/blob/main/LICENSE) 
+file for details.
